@@ -1,5 +1,3 @@
 # Any changes you make here you should also make in .npmignore
 
 /node_modules/
-
-/lib/
